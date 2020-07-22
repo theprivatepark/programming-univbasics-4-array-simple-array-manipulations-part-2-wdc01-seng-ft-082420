@@ -1,4 +1,4 @@
-def using_concat(array)
-all_my_favs
+def using_concat(array1, array2)
+
 
 end
